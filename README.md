@@ -17,4 +17,4 @@
 ## Time Spent
 I spent 10 hours to complete this project
 ## Live Link
-Preview the project [Here](https://paytm-clone-twcss.netlify.app/)
+Preview the project [Here](https://paymentappclone.netlify.app/)
